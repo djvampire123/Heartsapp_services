@@ -1,0 +1,11 @@
+{
+	"service_port": 8080,
+	"module_url":"https://tfhub.dev/google/universal-sentence-encoder-large/3",
+	"data_path":"/home/master/Documents/MISSION-WORK/heartsapp_python/data",
+	"threshold":0.7,
+	"top_k":5,
+	"metric": "cosine",
+	"normalize":0,
+	"input_node":"Placeholder:0",
+	"output_node":"module_apply_default/Encoder_en/hidden_layers/l2_normalize:0"
+}

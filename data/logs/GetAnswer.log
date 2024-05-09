@@ -1,0 +1,34 @@
+2019-06-10 12:06:40,640 - INFO - GetAnswer API started !
+2019-06-10 12:13:47,540 - INFO - GetAnswer API started !
+2019-06-10 14:16:38,587 - INFO - GetAnswer API started !
+2019-06-10 14:17:21,719 - INFO - GetAnswer API started !
+2019-06-10 14:17:25,652 - INFO - time taken to get distances -> 1.101254940032959
+2019-06-10 14:23:41,626 - INFO - GetAnswer API started !
+2019-06-10 14:26:46,688 - INFO - GetAnswer API started !
+2019-06-10 14:26:50,169 - INFO - time taken to get distances -> 0.9675304889678955
+2019-06-10 14:30:40,539 - INFO - GetAnswer API started !
+2019-06-10 14:31:11,576 - INFO - GetAnswer API started !
+2019-06-10 14:31:13,409 - INFO - Tensor("truediv:0", shape=(512, 512), dtype=float32)
+2019-06-10 14:31:14,517 - INFO - time taken to get distances -> 1.107875108718872
+2019-06-10 14:39:01,431 - INFO - GetAnswer API started !
+2019-06-10 14:39:05,300 - INFO - Tensor("truediv:0", shape=(?, 872), dtype=float32)
+2019-06-10 14:39:06,265 - INFO - time taken to get distances -> 0.9649226665496826
+2019-06-10 14:41:46,299 - INFO - GetAnswer API started !
+2019-06-10 14:41:48,079 - INFO - Tensor("truediv:0", shape=(?, 872), dtype=float32)
+2019-06-10 14:42:45,862 - INFO - GetAnswer API started !
+2019-06-10 14:42:47,132 - INFO - Tensor("truediv:0", shape=(?, 872), dtype=float32)
+2019-06-10 14:42:48,101 - INFO - time taken to get distances -> 0.9685494899749756
+2019-06-10 14:48:42,520 - INFO - GetAnswer API started !
+2019-06-10 14:50:29,396 - INFO - GetAnswer API started !
+2019-06-10 14:57:23,785 - INFO - GetAnswer API started !
+2019-06-10 14:58:51,360 - INFO - GetAnswer API started !
+2019-06-10 14:58:53,594 - INFO - Tensor("truediv:0", shape=(?, 872), dtype=float32)
+2019-06-10 14:58:54,653 - INFO - time taken to get distances -> 1.059044361114502
+2019-06-10 15:47:19,038 - INFO - GetAnswer API started !
+2019-06-10 15:47:22,484 - INFO - time taken to get distances -> 0.952850341796875
+2019-06-10 15:52:13,753 - INFO - time taken to get distances -> 0.8180527687072754
+2019-06-10 15:58:04,391 - INFO - time taken to get distances -> 0.798656702041626
+2019-06-10 17:53:59,363 - INFO - GetAnswer API started !
+2019-07-14 14:14:05,547 - INFO - GetAnswer API started !
+2019-07-14 14:14:58,687 - INFO - time taken to get distances -> 0.7659766674041748
+2019-07-14 14:14:58,688 - INFO - query time -> 0.7678356170654297
